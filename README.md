@@ -10,5 +10,5 @@ I'm Felipe Chagas. I like cats, computers and dinosaurs, not necessarily in that
 
 ## ✨ Where to find me
 * I am part of the [Entre Chaves](https://open.spotify.com/show/1ub9YZKamdMKdKbLia4YrX) podcast, in which we talk about development and other things
-* I'm learning how to write on my [personal blog](https://chagas.dev.top)
+* I'm learning how to write on my [personal blog](https://dev.chagas.top/)
 * I also have an [abandoned Linkedin](https://www.linkedin.com/in/felipe-chagas-0a45323b/)
