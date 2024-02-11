@@ -1,7 +1,7 @@
 # Hello everybody 🤙
 
-I'm Felipe Chagas. I like cats, computers and dinosaurs, not necessarily in that order of importance. I currently work as an architect at [dti
-](http://dtidigital.com.br/). I like to work with performance improvement and DevOps.
+I'm Felipe Chagas. I like cats, computers and dinosaurs, not necessarily in that order of importance. I currently work as an engineering manager at [wildlife
+](https://wildlifestudios.com).
 
 ## ❤️ Values
 * Never stop learning
